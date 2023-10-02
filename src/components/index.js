@@ -9,11 +9,13 @@ import Footer from "./footer";
 import Testimonials from "./testimonials";
 import Hero from "./hero";
 import GetStarted from "./GetStarted";
+import Button from "./button";
 
 export {
   Navbar,
   GetStarted,
   Billing,
+  Button,
   CardDeal,
   Business,
   Clients,
